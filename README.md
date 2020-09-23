@@ -2,7 +2,7 @@
 
 
 
-:bust_in_silhouette:##About Me
+:bust_in_silhouette:About Me
 * :octocat: Enthusiastic Mern Developer eager to learn and explore new things.
 * 🔭 Currently working on MERN Stack (MongoDB, Express.js, React, Node.js).
 * 🌱 Currently learning things that makes me and my skills better.
