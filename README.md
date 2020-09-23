@@ -1,7 +1,6 @@
 ### Hi there 👋,I'm Murali!
 
-<!--
-**Muralidevan/Muralidevan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 :bust_in_silhouette:##About Me
 * :octocat: Enthusiastic Mern Developer eager to learn and explore new things.
@@ -17,4 +16,4 @@
 
 🤝🏻 Connect with Me
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Muralidevan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Muralidevan8981/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/microsoftoutlook.svg' alt='microsoftoutlook' height='40'>]( muralidevann@outlook.com)  
--->
+
