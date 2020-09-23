@@ -12,7 +12,7 @@
 ## :link:🛠  Tech Stack
 * :computer: JavaScript | ES6 
 * :globe_with_meridians: HTML | CSS | ReactJS | Redux |  Node.js | Express.js 
-* 🛢 MongoDB 
+*  🛢 MongoDB 
 * :hammer: Git | Markdown
 
 ## :link:🤝🏻  Connect with Me
