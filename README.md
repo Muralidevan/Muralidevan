@@ -13,7 +13,7 @@
 * :computer: JavaScript | ES6 
 * :globe_with_meridians: HTML | CSS | ReactJS | Redux |  Node.js | Express.js 
 *  🛢 MongoDB 
-* :hammer: Git | Markdown
+* :hammer: Git | VsCode
 
 ## :link:🤝🏻  Connect with Me
 
