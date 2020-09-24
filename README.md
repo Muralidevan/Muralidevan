@@ -1,6 +1,6 @@
 # Hi there 👋,I'm Murali!
 
-## :link:👨🏻‍💻 About Me
+## 👨🏻‍💻 About Me
 * :octocat: Enthusiastic Mern Developer eager to learn and explore new things.
 * 🔭 Currently working on MERN Stack (MongoDB, Express.js, React, Node.js).
 * 🌱 Currently learning things that makes me and my skills better.
@@ -9,7 +9,7 @@
 
 
 
-## :link:🛠  Tech Stack
+## 🛠  Tech Stack
 * :computer: JavaScript | ES6 
 * :globe_with_meridians: HTML | CSS | ReactJS | Redux |  Node.js | Express.js 
 *  🛢 MongoDB 
