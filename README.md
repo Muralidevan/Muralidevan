@@ -11,7 +11,7 @@
 
 ## 🛠  Tech Stack
 * :computer: JavaScript | ES6 
-* :globe_with_meridians: HTML | CSS | ReactJS | Redux |  Node.js | Express.js 
+* :globe_with_meridians: HTML | CSS | ReactJS | ReactNative | Redux |  Node.js | Express.js 
 *  🛢 MongoDB 
 * :hammer: Git | VsCode
 
