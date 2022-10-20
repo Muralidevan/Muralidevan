@@ -66,7 +66,7 @@
 ## 🤝🏻  Connect with Me
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.linkedin.com/in/muralidevan8981/"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-Murali P-blue?style=flat&logo=linkedin"></a>&nbsp; &nbsp; 
    <a href="https://github.com/Muralidevan"><img alt="Github" src="https://img.shields.io/badge/GitHub-Murali P-blue?style=flat&logo=github"></a>&nbsp; &nbsp; 
-     <a href="mailto:muralidevan96@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-muralidevan96%40gmail.com-blue?style=flat&logo=gmail"></a>
+     <a href="mailto:muralidevan96@gmail.com"><img alt="Email" src= https://img.shields.io/badge/Gmail-muralidevan96%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white"></a>
      
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
