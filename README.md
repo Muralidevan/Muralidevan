@@ -68,7 +68,9 @@
    <a href="https://github.com/Muralidevan"><img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>&nbsp; &nbsp; 
      <a href="mailto:muralidevan96@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
      
-<div align="center">![Jokes Card](https://readme-jokes.vercel.app/api)</div>
+<div align="center">
+  ![Jokes Card](https://readme-jokes.vercel.app/api)
+</div>
 
 
 
