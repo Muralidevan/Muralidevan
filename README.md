@@ -39,24 +39,6 @@
   <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
       <img  alt="Sass" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
   </a>
-  <a href="https://www.java.com/en/" target="_blank" rel="noreferrer">
-      <img  alt="Java" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-  </a>    
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-      <img  alt="Python" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-      <img  alt="C" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-  </a>
-  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
-      <img  alt="Kotlin" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-      <img  alt="firebase" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>
-  </a>
-  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
-      <img  alt="GoogleCloud" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"/> 
-  </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
       <img  alt="Git" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
   </a>
@@ -77,10 +59,6 @@
   </a>
 </div>
 <br>
-* :computer: JavaScript | ES6 
-* :globe_with_meridians: HTML | CSS | ReactJS | NextJS | ReactNative | Redux |  Node.js | Express.js 
-*  🛢 MongoDB 
-* :hammer: Git | VsCode
 
 ## 🤝🏻  Connect with Me
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.linkedin.com/in/muralidevan8981/"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-Murali P-blue?style=flat&logo=linkedin"></a>&nbsp; &nbsp; 
