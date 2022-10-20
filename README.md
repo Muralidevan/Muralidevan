@@ -37,7 +37,7 @@
       <img  alt="Bootstrap" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-      <img  alt="Tailwindcss" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwind/tailwindcss.svg"/>
+      <img  alt="Tailwindcss" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg"/>
   </a>
   <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
       <img  alt="Sass" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
